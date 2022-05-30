@@ -6,5 +6,5 @@
 
 
 **Head to PronsSecDoesPasswords.ipynb and click the 'Open In Colab' icon to open the notebook.** 
-
-**If the slider fails to update length please refresh the page**
+---
+*If the slider fails to update length please refresh the page.*
